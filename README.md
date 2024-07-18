@@ -9,7 +9,8 @@ It's pretty basic, and covers all of the available features for interacting with
 
 ## Requirements
 ### Python packages
-The utility requires the { requests } package to be installed. If you're using PIP, simply type:
+The utility requires the { requests } package to be installed. If you're using PIP, simply type:  
+
     python -m pip install requests
 and the package should be installed.
 The program also requires { sys } and { json } but these should be installed by default.
@@ -23,6 +24,7 @@ On desktop, the steps for me were as follows:
 4. Once the access token details are visible, copy the string of characters from the 'Token' heading. Paste this code into Notepad or a similar text editor.
 
 The program will then ask you for this token as an input.
+The program <b>does not save this</b> across uses, so if you plan on changing multiple nicknames, keep the API key saved somewhere else to refer back to.
 
 
 ### Canvas Link
