@@ -9,7 +9,7 @@ import requests
 import json
 
 # The text shown when exiting the program
-sysExitText = "The program will now terminate. If you're finished using the program, it is advised to go back to your Canvas 'Approved integrations' and delete the Access Key you generated, to prevent unwanted use."
+sysExitText = "\nThe program will now terminate. If you're finished using the program, it is advised to go back to your Canvas 'Approved integrations' and delete the Access Key you generated, to prevent unwanted use."
 
 # Tutorial steps
 print('\n\n\n-------------------------------------------------')
