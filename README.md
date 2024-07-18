@@ -1,8 +1,10 @@
-# README
+# Canvas Nickname Utils - by Terpity
 
-# Hey!
-Hey! I'm Terpity, and this is my Python CLI utility for changing Canvas course nicknames.
-I developed this after I couldn't find a setting for it in the Canvas UI. Maybe I was just blind, or stupid, or both, but here we are.
+## Hey!
+Hey! I'm Terpity, and this is my Python CLI utility for changing Canvas course nicknames.  
+
+I developed this after I couldn't find a setting for it in the Canvas UI. Maybe I was just blind, or stupid, or both, but here we are.  
+
 It's pretty basic, and covers all of the available features for interacting with nicknames through the API.
 
 ## Requirements
@@ -24,14 +26,17 @@ The program will then ask you for this token as an input.
 
 
 ### Canvas Link
-You will also need the link to your institutions Canvas page.
-As an example, the one for Flinders University is "https://canvas.flinders.edu.au/" (As of mid-2024)
-If you go to Flinders or Adelaide Uni, the links are already preloaded by default, simply choose your applicable option. 
-If you go to another institution, please copy the link to Canvas and paste it when the program asks you to. Make sure to INCLUDE the forward slash at the end, or else the program will not be able to fulfill the request properly.
+You will also need the link to your institutions Canvas page.  
+As an example, the one for Flinders University is "https://canvas.flinders.edu.au/" (As of mid-2024).  
+
+If you go to Flinders or Adelaide Uni, the links are already preloaded by default, simply choose your applicable option.  
+
+If you go to another institution, please copy the link to Canvas and paste it when the program asks you to.  
+Make sure to INCLUDE the forward slash at the end, or else the program will not be able to fulfill the request properly.
 
 ## Disclaimer
-The program does not save any information. 
-The program does not send any information outside of your network and Canvas.
-I do not collect any information when you run the program.
+The program <b>does not</b> save any information.   
+The program <b>does not</b> send any information outside of <b>your network and Canvas</b>.  
+<b>I do not collect any information</b> when you run the program.
 
-Feel free to verify this yourself, the code is openly available on my Github:
+Feel free to verify this yourself, the code is openly available on my Github at https://github.com/Terpity/CanvasNicknameUtils
