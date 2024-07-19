@@ -1,7 +1,7 @@
 # Canvas Nickname Utils - by Terpity
 
 ## Hey!
-Hey! I'm Terpity, and this is my Python CLI utility for changing Canvas course nicknames.  
+Hey! I'm [Terpity](https://github.com/Terpity), and this is my Python CLI utility for changing Canvas course nicknames.  
 
 I developed this after I couldn't find a setting for it in the Canvas UI. Maybe I was just blind, or stupid, or both, but here we are.  
 
@@ -9,10 +9,11 @@ It's pretty basic, and covers all of the available features for interacting with
 
 ## Requirements
 ### Python packages
-The utility requires the { requests } package to be installed. If you're using PIP, simply type:  
+The utility requires the [requests](https://pypi.org/project/requests/) package to be installed. If you're using PIP, open a terminal in the same folder as app.py (or navigate there) and simply run  
 
-    python -m pip install requests
-and the package should be installed.
+    pip install -r requirements.txt
+
+and the required package should be installed.
 The program also requires { sys } and { json } but these should be installed by default.
 
 ### API key
