@@ -3,7 +3,7 @@
 ## Hey!
 Hey! I'm [Terpity](https://github.com/Terpity), and this is my Python CLI utility for changing Canvas course nicknames.  
 
-I developed this after I couldn't find a setting for it in the Canvas UI. Maybe I was just blind, or stupid, or both, but here we are.  
+I developed this as an experiment playing with the API provided by Instructure for the Canvas LMS.
 
 It's pretty basic, and covers all of the available features for interacting with nicknames through the API.
 
